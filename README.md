@@ -1,21 +1,18 @@
 # CSE232_first_repo
 
-War! The Republic is crumbling
-under attacks by the ruthless
-Sith Lord, Count Dooku.
-There are heroes on both sides.
-Evil is everywhere.
+It is a period of civil war. Rebel 
+spaceships, striking from a hidden 
+base, have won their first victory 
+against the evil Galactic Empire. 
+During the battle, Rebel spies 
+managed to steal secret plans to 
+the Empire’s ultimate weapon, 
+the DEATH STAR, an armoured space 
+station with enough power to destroy 
+an entire planet. 
 
-In a stunning move, the
-fiendish droid leader, General
-Grievous, has swept into the
-Republic capital and kidnapped
-Chancellor Palpatine, leader of
-the Galactic Senate.
-
-As the Separatist Droid Army
-attempts to flee the besieged
-capital with their valuable
-hostage, two Jedi Knights lead a
-desperate mission to rescue the
-captive Chancellor....
+Pursued by the Empire’s sinister agents, 
+Princess Leia races home aboard her 
+starship, custodian of the stolen plans 
+that can save her people and restore 
+freedom to the galaxy….
